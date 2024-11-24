@@ -35,7 +35,7 @@ imagemap.httml
         <h1>
             IMAGE MAP
         </h1>
-        <img src="https://tnfusa.org/wp-content/uploads/2020/12/unnamed.gif" alt="smple images" usemap="image map" width="50%" height="50%"
+        <img src="unnamed.gif" alt="smple images" usemap="image map" width="50%" height="50%"
            <map name=" image map">
             <area shape="poly" coords="304,110,353,106,385,171,355,200,310,159,244,142,261,120" href="C:\Users\SANTHOSH P\Downloads\HTML\kovil.html"   >
             <area shape="poly" coords="237,153,246,146,330,190,319,239,271,250" href="C:\Users\SANTHOSH P\Downloads\HTML\kovil 2.html" >
@@ -67,15 +67,15 @@ kovil.html
         <h1> THE MADURAI MEENAKSHI AMMAN TEMPLE</h1><h1 style="color: red;">MADURAI SOUTH</h1>
         <br>
         <br>
-       <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/71/bf/0e/madurai-meenakshi-temple.jpg?w=1200&h=1200&s=1" alt="image">
+       <img src="madurai-meenakshi-temple.jpg" alt="image">
        <br>
        <br>
        <br>
        <h3>Arulmigu Meenakshi Sundareswarar Temple, also known as Arulmigu Meenakshi Amman Thirukkovil, is a historic Hindu temple located on the southern bank of the Vaigai River[3] in the temple city[4] of Madurai, Tamil Nadu, India. It is dedicated to the goddess Meenakshi Amman, a form of Parvati, and her consort, Sundareshwarar, a form of Shiva.[5] The temple is at the centre of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th-century CE texts.[6] This temple is one of the Paadal Petra Sthalams, which are 275 temples of Shiva that are revered in the verses of Tamil Saiva Nayanars of the 6th-9th century CE.
 
- The west tower (gopuram) of the temple is the model based on which the Tamil Nadu State Emblem is designed.[7][8]
+The west tower (gopuram) of the temple is the model based on which the Tamil Nadu State Emblem is designed.[7][8]
         
-   </h3>
+ </h3>
         <br>
         <br>
         <br>
@@ -83,7 +83,7 @@ kovil.html
 
   Though the temple has historic roots, most of the present campus structure was rebuilt after the 14th century CE, further repaired, renovated and expanded in the 17th century by Tirumala Nayaka.[11][12] In the early 14th century, the armies of Delhi Sultanate led by Malik Kafur plundered the temple, looted it of its valuables and destroyed the Madurai temple town along with many other temple towns of South India.[13][14][15] The contemporary temple is the result of rebuilding efforts started by the Vijayanagara Empire rulers who rebuilt the core and reopened the temple.[13][16] In the 16th century, the temple complex was further expanded and fortified by the Nayak ruler Vishwanatha Nayakar and later others. The restored complex now houses 14 gopurams (gateway towers), ranging from 45–50 m in height, with the southern gopura tallest at 51.9 metres (170 ft). The complex has numerous sculpted pillared halls such as Aayirankaal (1000-pillared hall), Kilikoondu-mandapam, Golu-mandapam and Pudu-mandapam. Its shrines are dedicated to Hindu deities and Shaivism scholars, with the vimanas above the garbhagrihas (sanctums) of Meenakshi and Sundaresvara gilded with gold.[16][17][18]
             
-  The temple is a major pilgrimage destination within the Shaivism tradition, dedicated to Meenakshi Devi and Shiva. However, the temple includes Vishnu in many narratives, sculptures and rituals as he is considered to be Meenakshi's brother.[19] This has made this temple and Madurai as the "southern Mathura", one included in Vaishnava texts.[20][21] The Meenakshi Amman temple also includes Lakshmi, flute playing Krishna, Rukmini, Brahma, Saraswati, and other Vedic and Puranic deities, as well as artwork showing narratives from major Hindu texts. The large temple complex is the most prominent landmark in Madurai and attracts tens of thousands of visitors a day.[22] The temple attracts over a million pilgrims and visitors during the annual 10-day Meenakshi Tirukalyanam festival, celebrated with much festivities and a ratha (chariot) procession during the Tamil month of Chittirai (overlaps with April–May in the Georgian calendar, Chaitra in North India).[23] The Temple has been adjudged the best 'Swachh Iconic Place' in India on 1 October 2017 under Swachh Bharat Abhiyan.[24]</p>
+ The temple is a major pilgrimage destination within the Shaivism tradition, dedicated to Meenakshi Devi and Shiva. However, the temple includes Vishnu in many narratives, sculptures and rituals as he is considered to be Meenakshi's brother.[19] This has made this temple and Madurai as the "southern Mathura", one included in Vaishnava texts.[20][21] The Meenakshi Amman temple also includes Lakshmi, flute playing Krishna, Rukmini, Brahma, Saraswati, and other Vedic and Puranic deities, as well as artwork showing narratives from major Hindu texts. The large temple complex is the most prominent landmark in Madurai and attracts tens of thousands of visitors a day.[22] The temple attracts over a million pilgrims and visitors during the annual 10-day Meenakshi Tirukalyanam festival, celebrated with much festivities and a ratha (chariot) procession during the Tamil month of Chittirai (overlaps with April–May in the Georgian calendar, Chaitra in North India).[23] The Temple has been adjudged the best 'Swachh Iconic Place' in India on 1 October 2017 under Swachh Bharat Abhiyan.[24]</p>
     </center></body>
 </html>
 
@@ -96,8 +96,7 @@ kovil 2.html
         <title>
             Arulmigu Sri Kallazhagar Perumal Temple 
         </title>
-        
-  </head>
+         </head>
     <body >
         <center>
             <style>
@@ -111,7 +110,7 @@ kovil 2.html
             </h1>
             <br>
             <br>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Kallazhagar_%2831%29.jpg" width="40%" height="30%"
+            <img src="Kallazhagar_(31).jpg" width="40%" height="30%"
             <br>
             <br>
             <br>
@@ -147,7 +146,7 @@ kovil 3.html
             </h1>
             <br>
             <br>
-            <img src="https://www.templepurohit.com/wp-content/uploads/2016/07/Thiruparankundram-Murugan-Temple.jpg" width="30%" height="50%"
+            <img src="Thiruparankundram-Murugan-Temple.jpg" width="30%" height="50%"
              <br>
              <br>
              <br>
@@ -158,17 +157,17 @@ kovil 3.html
              <p>Turnovers
                 Subramaniaswamy's sanctum sanctorum Inscriptions indicate that the cave temple was built for Lord Shiva in 773 AD during the reign of the Pandya king Parantaka Nedunchadayan (765-815) by his general, Satan Ganapati . Among the Nayaka kings of Madurai , Veerappar (1572-1595), Thirumalai king (1623-1659) and Queen Mangammal (1689-1706) have thiruppanis in this temple. [ 1 ]
                 
-               
-  Temple structure
+ Temple structure
                 The sanctum sanctorum of Tiruparangunram Subramaniaswamy Temple is a cave temple. The sanctum sanctorum has five caves carved into the mountain. There are five sannidhis here namely Subramaniaswamy Sannidhi, Durgadevi Sannidhi, Karpaka Vinayar Sannidhi, Sathyakriswarar Sannidhi and Pavalkanivai Perumal Sannidhi.
                 
-  The drapery art and other sculptural features found in the figures of Dwarapalas at the gate of the Sathyagriswara Sannidhi are awe-inspiring. Apart from the five Sannidhis, Tiruparangundra temple has Annapurani cave temple and cave temple dedicated to Goddess Jeshta.
+The drapery art and other sculptural features found in the figures of Dwarapalas at the gate of the Sathyagriswara Sannidhi are awe-inspiring. Apart from the five Sannidhis, Tiruparangundra temple has Annapurani cave temple and cave temple dedicated to Goddess Jeshta.
                 
-  In the Artha Mandapam, there are bas-reliefs representing incarnations of Thirumal on the rock next to the Sathyagriswarar Sannidhi and on the rock next to the Pavalkanivai Perumal Sannidhi. The 10 large pillars at the entrance of the temple show the sculptural artistry of the Nayak period. There are pillars like 'Murugan Deivanai Wedding Column'.\</p>
+In the Artha Mandapam, there are bas-reliefs representing incarnations of Thirumal on the rock next to the Sathyagriswarar Sannidhi and on the rock next to the Pavalkanivai Perumal Sannidhi. The 10 large pillars at the entrance of the temple show the sculptural artistry of the Nayak period. There are pillars like 'Murugan Deivanai Wedding Column'.\</p>
             </center>
     </body>
 </html>
-# OUTPUT
+# OUTPUT]
+
 ![Screenshot (60)](https://github.com/user-attachments/assets/d72ce567-9d5f-446c-820e-f86f1dc99fc2)
 ![Screenshot (61)](https://github.com/user-attachments/assets/f10d9a15-6de6-4d02-b05d-e29b24e40d2e)
 ![Screenshot (62)](https://github.com/user-attachments/assets/54a52b2d-ae3a-45bc-88d9-79342fea22af)
