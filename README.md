@@ -24,6 +24,7 @@ Execute the programs and publish them.
 
 # CODE
 imagemap.httml
+~~~
 
 <html>
     <head>
@@ -48,13 +49,14 @@ imagemap.httml
  </body>
     </head>
 </html>
+~~~
 
 
 
 kovil.html
 
 
-
+~~~
 <html>
     <head>
         <title>
@@ -94,12 +96,13 @@ The west tower (gopuram) of the temple is the model based on which the Tamil Nad
     </center>
     </body>
 </html>
+~~~
 
 
 
 kovil 2.html
 
-
+~~~
 
 <html>
     <head>
@@ -136,7 +139,7 @@ kovil 2.html
         </center>
     </body>
 </html>
-
+~~~
 
 
 
@@ -144,7 +147,7 @@ kovil 3.html
 
 
 
-
+~~~
 <html>
     <head>
         <title>
@@ -189,7 +192,7 @@ In the Artha Mandapam, there are bas-reliefs representing incarnations of Thirum
     </body>
 </html>
 
-
+~~~
 
 # OUTPUT]
 
