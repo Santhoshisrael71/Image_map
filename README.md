@@ -25,11 +25,7 @@ Execute the programs and publish them.
 # CODE
 imagemap.httml
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-    <meta charset="UTF-8">
+<html>
     <head>
         <title>
             IMAGE MAP
@@ -59,9 +55,7 @@ kovil.html
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-    <meta charset="UTF-8">
+<html>
     <head>
         <title>
             THE MEENAKSHI AMMAN TEMPLE
@@ -107,9 +101,7 @@ kovil 2.html
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-    <meta charset="UTF-8">
+<html>
     <head>
         <title>
             Arulmigu Sri Kallazhagar Perumal Temple 
@@ -153,9 +145,7 @@ kovil 3.html
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-    <meta charset="UTF-8">
+<html>
     <head>
         <title>
             Shri Arulmigu Subramaniya Swami Temple
